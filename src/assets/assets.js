@@ -149,7 +149,7 @@ export const workData = [
     color: "pink"
   },
   {
-    role: "Inter Software Developer",
+    role: "Intern Software Developer",
     company: "Apply Bright Solutions (Pvt) Ltd ",
     duration: "Mar-2022 - Feb-2024",
     description:
